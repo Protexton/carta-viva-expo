@@ -1,11 +1,12 @@
 
-# VivaCarta
+# CartaViva
 
-**VivaCarta** es una plataforma SaaS pensada para transformar la experiencia de los restaurantes, sustituyendo las cartas físicas por cartas digitales con vídeo, analítica avanzada y actualizaciones en tiempo real.
+**Web oficial:** [https://cartaviva.app](https://cartaviva.app)
+**CartaViva** es una plataforma SaaS pensada para transformar la experiencia de los restaurantes, sustituyendo las cartas físicas por cartas digitales con vídeo, analítica avanzada y actualizaciones en tiempo real.
 
 ---
 
-## ¿Qué es VivaCarta?
+## ¿Qué es CartaViva?
 
 Una carta digital diseñada para impresionar: el cliente escanea un QR y accede a una carta interactiva donde cada plato puede incluir un vídeo, descripción, alérgenos, y más. Todo gestionado por el propio restaurante desde un panel de administración intuitivo.
 
