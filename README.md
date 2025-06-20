@@ -40,28 +40,9 @@ Está diseñado como una presentación profesional de producto (portfolio).
 
 ---
 
-## Capturas (ver `/screenshots`)
-
-- Vista móvil del cliente escaneando QR
-- Panel de administración del restaurante
-- Carta con vídeo y navegación intuitiva
-
----
-
 ## Arquitectura
 
-Consulta el diagrama técnico de VivaCarta en la carpeta `/docs`.
-
----
-
-## Estructura del repositorio
-
-```
-📁 screenshots/        → Imágenes de ejemplo de la plataforma
-📁 docs/               → Diagrama de arquitectura (opcional)
-📄 README.md           → Este archivo
-📄 LICENSE.md          → Todos los derechos reservados
-```
+No disponible, preguntar a [Iker Vaca](https://www.linkedin.com/in/ikerva/)
 
 ---
 
