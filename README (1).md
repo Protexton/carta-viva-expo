@@ -5,22 +5,22 @@
 
 ---
 
-## 🚀 ¿Qué es VivaCarta?
+## ¿Qué es VivaCarta?
 
 Una carta digital diseñada para impresionar: el cliente escanea un QR y accede a una carta interactiva donde cada plato puede incluir un vídeo, descripción, alérgenos, y más. Todo gestionado por el propio restaurante desde un panel de administración intuitivo.
 
 ---
 
-## 🎯 Problema que resuelve
+## Problema que resuelve
 
-- 💡 Elimina la dependencia de cartas impresas que requieren mantenimiento constante
-- 🎥 Permite mostrar vídeos cortos de los platos para aumentar conversión
-- 📊 Añade analítica de comportamiento para entender qué platos interesan más
-- 🔄 Permite actualizar precios, productos y stock en tiempo real
+- Elimina la dependencia de cartas impresas que requieren mantenimiento constante
+- Permite mostrar vídeos cortos de los platos para aumentar conversión
+- Añade analítica de comportamiento para entender qué platos interesan más
+- Permite actualizar precios, productos y stock en tiempo real
 
 ---
 
-## 🧱 Stack Tecnológico
+## Stack Tecnológico
 
 - **Frontend**: Lovable + Tailwind CSS + TypeScript
 - **Backend**: Supabase (auth, DB y API REST)
@@ -30,14 +30,14 @@ Una carta digital diseñada para impresionar: el cliente escanea un QR y accede 
 
 ---
 
-## 🛡️ Seguridad y privacidad
+## Seguridad y privacidad
 
 Este repositorio **no contiene código fuente ni claves**.  
 Todo el contenido mostrado es únicamente visual y documental.
 
 ---
 
-## 📷 Capturas (ubicadas en `/screenshots`)
+## Capturas (ubicadas en `/screenshots`)
 
 - Vista de la carta digital desde el móvil del cliente
 - Panel de gestión de platos desde la administración
@@ -62,6 +62,6 @@ VivaCarta nace de una necesidad real detectada en el sector: la falta de flexibi
 
 ---
 
-## 📎 Nota legal
+## Nota legal
 
 Este proyecto es solo demostrativo. El código, diseño y arquitectura de VivaCarta son propiedad intelectual protegida. No está permitido el uso ni reproducción sin consentimiento del autor.
